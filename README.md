@@ -4,7 +4,7 @@
 ## App Description
 This application is built using the python programming language and uses the tensorflow library. This application is used to train a model from the dataset that we have created to classify historical tourist attractions in Indonesia.
 
-- Dataset & Model : https://drive.google.com/drive/folders/1dA02d8ixzEFgwqVM6oP9UgdX-Dj0Vo_R?usp=sharing
+- Dataset & Model : https://drive.google.com/drive/folders/1FTdrzXxCTvZIsKb4DjiuA8RTeWEmKc_-?usp=sharing
 
 ## Statistics
 ### CNN
